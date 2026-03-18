@@ -11,7 +11,6 @@ Hi, I'm Harsh S. Koyande<br><br>🎓 BSc Computer Science (Honors)<br>📍 Toron
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HarshkaMain&theme=dark)
 
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=HarshkaMain&icon=0&color=0)
